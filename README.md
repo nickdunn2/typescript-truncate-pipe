@@ -1,0 +1,1 @@
+# typescript-truncate-pipe
